@@ -1,0 +1,102 @@
+[submodule "fcrepo"]
+	path = fcrepo
+	url = git@github.com:lyrasis/fcrepo.git
+[submodule "islandora"]
+	path = islandora
+	url = git@github.com:lyrasis/islandora
+[submodule "drupal"]
+	path = drupal
+	url = git@github.com:lyrasis/drupal
+[submodule "islandora_drupal_filter"]
+	path = islandora_drupal_filter
+	url = git@github.com:lyrasis/islandora_drupal_filter.git
+[submodule "islandora_solution_pack_collection"]
+	path = islandora_solution_pack_collection
+	url = git@github.com:lyrasis/islandora_solution_pack_collection
+[submodule "islandora_solr_search"]
+	path = islandora_solr_search
+	url = git@github.com:lyrasis/islandora_solr_search
+[submodule "islandora_solr_views"]
+	path = islandora_solr_views
+	url = git@github.com:lyrasis/islandora_solr_views
+[submodule "islandora_solution_pack_image"]
+	path = islandora_solution_pack_image
+	url = git@github.com:lyrasis/islandora_solution_pack_image
+[submodule "islandora_solution_pack_pdf"]
+	path = islandora_solution_pack_pdf
+	url = git@github.com:lyrasis/islandora_solution_pack_pdf
+[submodule "objective_forms"]
+	path = objective_forms
+	url = git@github.com:lyrasis/objective_forms
+[submodule "islandora_xml_forms"]
+	path = islandora_xml_forms
+	url = git@github.com:lyrasis/islandora_xml_forms
+[submodule "php_lib"]
+	path = php_lib
+	url = git@github.com:lyrasis/php_lib
+[submodule "tuque"]
+	path = tuque
+	url = git@github.com:lyrasis/tuque
+[submodule "gsearch"]
+	path = gsearch
+	url = git@github.com:lyrasis/gsearch.git
+[submodule "islandora_marcxml"]
+	path = islandora_marcxml
+	url = git@github.com:lyrasis/islandora_marcxml
+[submodule "islandora_importer"]
+	path = islandora_importer
+	url = git@github.com:lyrasis/islandora_importer
+[submodule "islandora_theme_flvc"]
+	path = islandora_theme_flvc
+	url = git@github.com:lyrasis/islandora_theme_flvc.git
+[submodule "islandora_solution_pack_large_image"]
+	path = islandora_solution_pack_large_image
+	url = git@github.com:lyrasis/islandora_solution_pack_large_image
+[submodule "islandora_openseadragon"]
+	path = islandora_openseadragon
+	url = git@github.com:lyrasis/islandora_openseadragon
+[submodule "islandora_solution_pack_book"]
+	path = islandora_solution_pack_book
+	url = git@github.com:lyrasis/islandora_solution_pack_book
+[submodule "islandora_paged_content"]
+	path = islandora_paged_content
+	url = git@github.com:lyrasis/islandora_paged_content
+[submodule "islandora_internet_archive_bookreader"]
+	path = islandora_internet_archive_bookreader
+	url = git@github.com:lyrasis/islandora_internet_archive_bookreader
+[submodule "islandora_ocr"]
+	path = islandora_ocr
+	url = git@github.com:lyrasis/islandora_ocr
+[submodule "islandora_solution_pack_newspaper"]
+	path = islandora_solution_pack_newspaper
+	url = git@github.com:lyrasis/islandora_solution_pack_newspaper
+[submodule "islandora_simple_workflow"]
+	path = islandora_simple_workflow
+	url = git@github.com:lyrasis/islandora_simple_workflow
+[submodule "islandora_fits"]
+	path = islandora_fits
+	url = git@github.com:lyrasis/islandora_fits
+[submodule "islandora_book_batch"]
+	path = islandora_book_batch
+	url = git@github.com:lyrasis/islandora_book_batch
+[submodule "islandora_batch"]
+	path = islandora_batch
+	url = git@github.com:lyrasis/islandora_batch
+[submodule "islandora_utils"]
+	path = islandora_utils
+	url = git@github.com:lyrasis/islandora_utils
+[submodule "islandora_solution_pack_compound"]
+	path = islandora_solution_pack_compound
+	url = git@github.com:lyrasis/islandora_solution_pack_compound
+[submodule "islandora_ip_embargo"]
+	path = islandora_ip_embargo
+	url = git@github.com:lyrasis/islandora_ip_embargo
+[submodule "feature-base-islandora"]
+	path = feature-base-islandora
+	url = git@github.com:lyrasis/feature-base-islandora.git
+[submodule "reposervice-module"]
+	path = reposervice-module
+	url = git@github.com:lyrasis/reposervice-module.git
+[submodule "lyr_isl_base_theme"]
+	path = lyr_isl_base_theme
+	url = git@github.com:lyrasis/lyr_isl_base_theme.git
