@@ -106,3 +106,6 @@
 [submodule "internet_archive_bookreader"]
 	path = internet_archive_bookreader
 	url = git@github.com:lyrasis/internet_archive_bookreader.git
+[submodule "feature_base_drupal"]
+	path = feature_base_drupal
+	url = git@github.com:lyrasis/feature_base_drupal.git
