@@ -100,3 +100,18 @@
 [submodule "lyr_isl_base_theme"]
 	path = lyr_isl_base_theme
 	url = git@github.com:lyrasis/lyr_isl_base_theme.git
+[submodule "openseadragon"]
+	path = openseadragon
+	url = git@github.com:lyrasis/openseadragon.git
+[submodule "internet_archive_bookreader"]
+	path = internet_archive_bookreader
+	url = git@github.com:lyrasis/internet_archive_bookreader.git
+[submodule "feature_base_drupal"]
+	path = feature_base_drupal
+	url = git@github.com:lyrasis/feature_base_drupal.git
+[submodule "islandora_videojs"]
+	path = islandora_videojs
+	url = git@github.com:lyrasis/islandora_videojs.git
+[submodule "islandora_solution_pack_audio"]
+	path = islandora_solution_pack_audio
+	url = git@github.com:lyrasis/islandora_solution_pack_audio.git
